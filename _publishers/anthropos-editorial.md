@@ -1,0 +1,3 @@
+---
+title: Anthropos Editorial
+---

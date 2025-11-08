@@ -1,3 +1,3 @@
 ---
-title: Plaza & Janes
+title: Plaza & Janés
 ---
